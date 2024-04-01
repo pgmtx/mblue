@@ -72,7 +72,7 @@ ads.
 Instead of taking notes of your relatives' birthdays, you can write them on [Birday](https://github.com/m-i-n-a-r/birday). It will gives you more 
 information (age, astrological sign) and notify you when it's someone's birthday. You can also set reminders that notify you a few days before.
 
-### Bitwarden
+### ![](/images/open-source-apps/bitwarden.png) Bitwarden ![](/images/open-source-apps/bitwarden.png)
 
 Freemium password manager.
 
@@ -135,3 +135,5 @@ Explain about Signal, Session, AlternativeTo etc.
 ### Misc.
 
 Koler, Calculator, Camera.
+
+[Back to top](#introduction)

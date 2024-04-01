@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Methylene Blue</title>
+    <link>http://localhost:1313/fr/</link>
+    <description>Recent content on Methylene Blue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <managingEditor>programutox@disroot.org (Programutox)</managingEditor>
+    <webMaster>programutox@disroot.org (Programutox)</webMaster>
+    <copyright>Programutox (CC BY 4.0)</copyright>
+    <lastBuildDate>Fri, 29 Mar 2024 21:41:39 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Addendum : deux sites coup de cœur</title>
+      <link>http://localhost:1313/fr/blog/useful-websites/</link>
+      <pubDate>Fri, 29 Mar 2024 21:41:39 +0100</pubDate><author>programutox@disroot.org (Programutox)</author>
+      <guid>http://localhost:1313/fr/blog/useful-websites/</guid>
+      <description>Introduction J&amp;rsquo;ai fait un article en anglais listant des sites web que je trouve très utiles. Cependant, il y en a deux autres dont j&amp;rsquo;aimerais parler.&#xA;Chiffrer.info Chiffrer.info est un petit site expliquant les subtilités autour du mot chiffrement, et notamment que le mot crypter est un non-sens. Chaque fois qu&amp;rsquo;un article d&amp;rsquo;un média (parfois même spécialisé !) emploie ce mot, ça me fait grincer des dents.&#xA;Pour plus d&amp;rsquo;informations sur le chiffrement, vous pouvez regarder cette vidéo de Guillaume Slash.</description>
+      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>J&rsquo;ai fait un article en anglais listant des sites web que je trouve très utiles. Cependant, il y en a deux autres dont
+j&rsquo;aimerais parler.</p>
+<h2 id="chiffrerinfo">Chiffrer.info</h2>
+<p><a href="https://chiffrer.info/">Chiffrer.info</a> est un petit site expliquant les subtilités autour du mot chiffrement, et notamment que <strong>le mot crypter est
+un non-sens</strong>. Chaque fois qu&rsquo;un article d&rsquo;un média (parfois même spécialisé !) emploie ce mot, ça me fait grincer des dents.</p>
+<p>Pour plus d&rsquo;informations sur le chiffrement, vous pouvez regarder <a href="https://yewtu.be/watch?v=dGpJ8q0ztxo">cette vidéo</a> de Guillaume Slash.</p>
+<p><img alt="Chiffrer.info explique quels termes ont un sens et les définit correctement" src="/images/useful-websites/chiffrer.png"></p>
+<h2 id="cnrtl">CNRTL</h2>
+<p>J&rsquo;ai découvert ce site grâce à un professeur remplaçant pendant un cours de français au collège.</p>
+<p>Le CNRTL (Centre National de Ressources Textuelles et Lexicales) intègre des ressources autour de la langue française : dictionnaires, synonymie, étymologie&hellip;</p>
+<p>Je l&rsquo;utilise surtout pour ses définitions claires et précises.</p>
+<p>Par exemple si je veux chercher le sens du mot <em>consubstantiel</em>, j&rsquo;écrirai sur <a href="https://search.disroot.org/">mon moteur de recherche préféré</a>
+&ldquo;consubstantiel cnrtl&rdquo;, qui me proposera la page avec la définition adéquate.</p>
+<p><img alt="CNRTL affiche les définitions du mot" src="/images/useful-websites/cnrtl.png"></p>
+<p>Le problème sera lorsque le mot que vous cherchez a plusieurs sens : vous aurez plusieurs définitions souvent proches les unes des autres, ce qui peut
+porter à confusion.</p>
+<p>Il y a des chances que vous tombiez sur quelques redondances : l&rsquo;adjectif que vous chercherez vous donnnera une définition par rapport au nom, et vous
+devrez chercher le nom pour comprendre.</p>
+<p><img alt="Définition du mot arpenter sur CNRTL" src="/images/useful-websites/cnrtl_arpenter.png"></p>
+<p>Ici par exemple, en voulant connaître la définition du mot <em>arpenter</em> dans le sens premier, je dois chercher ce que signifie <em>arpent</em>.</p>
+<p><a href="/fr/blog/useful-websites/#introduction">Revenir en haut de la page</a></p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
