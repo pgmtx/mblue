@@ -1,5 +1,5 @@
 +++
-title = 'Which mobile pdf reader should you choose ?'
+title = 'Which mobile pdf reader should you use?'
 date = 2024-04-02T21:02:57+02:00
 draft = false
 +++
@@ -102,8 +102,7 @@ The files are also sorted by name, not by date, which seems counter to the previ
 
 I guess the common issue with themes is not linked to the applications, but with my phone (or maybe MIUI).
 
-To read pdf files, I'd suggest Secure Pdf Viewer, despite the lack of gestural features.
-If you work late, or just can't stand white pages, use MJ Pdf Reader, which looks very promising.
+To read pdf files, I'd suggest Secure Pdf Viewer, despite the lack of gestural features. If you work late, or just can't stand white pages, use MJ Pdf Reader, which looks very promising. If you don't have a lot of pdf files or you organize them correctly, it is not a bad idea to try Orion Viewer.
 
 > Why aren't you writing PDF with all caps ?
 
