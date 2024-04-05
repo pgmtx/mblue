@@ -18,6 +18,13 @@ enableRobotsTXT = true
     # to people with poor eyesight. For more information about color contrast
     # and accessibility, see https://web.dev/color-and-contrast-accessibility/
     noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
 
 # Multilingual mode config. More for information about how to setup translation,
 # see https://gohugo.io/content-management/multilingual/
@@ -53,6 +60,8 @@ enableRobotsTXT = true
   # This title is used as the site_name on the Hugo's internal opengraph
   # structured data template
   title = "Methylene Blue"
+
+  math = true
 
   # Dates are displayed following the format below. For more information about
   # formatting, see https://gohugo.io/functions/format/
