@@ -16,9 +16,9 @@ $$\int{udv}=uv-\int{vdu}$$
 
 To find their way, navigators have to calculate angles using a sextant. 
 
-The thing is, the angles can be very, very small (we are expressing them in arcminutes and arcseconds). Let's say that for some reason, you have neither a calculator nor a logarithm table, but per chance, you have a trigonometrical book.
+The thing is, the angles can be very, very small (we are expressing them in arcminutes and arcseconds). Let's say that for some reason, you have neither a calculator nor a logarithm table, but per chance, you have a trigonometric book.
 
-This is where prostaphaeresis comes in. It consists of approximating a product by replacing the values by a trigonometrical function.
+This is where prostaphaeresis comes in. It consists of approximating a product by replacing the values by a trigonometric function.
 
 Let \(A\) and \(B\) two very little angles, and \(\cos(a)\) and \(\cos(b)\) their approximation.
 
@@ -40,6 +40,8 @@ There might be too many, they remain so useful.
 $$\sin(x)\cos(x) = \frac{1}{2}\sin(2x)$$
 $$\cos^2(x) = \frac{1 + \cos(2x)}{2}$$
 $$\sin^2(x) = \frac{1 - \cos(2x)}{2}$$
+
+Keep in mind that whenever you find a powered sine or cosine, you can linearize it to simplify calculations.
 
 ## Tabular integration
 
@@ -65,7 +67,7 @@ You have then:
 
 Then you multiply and add diagonally, like this.
 
-*add image*
+![](/images/product-integrals/tabular.png)
 
 Don't forget to alternate signs!
 
