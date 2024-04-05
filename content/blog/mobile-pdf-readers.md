@@ -8,7 +8,7 @@ draft = false
 
 I was looking for a new pdf reader, so I dug on AlternativeTo.
 
-I ditched Google Drive, so no pdf reader from Google. Xiaomi one has contrast issues (in terms of display). So let's see if open source apps are interesting in that domain.
+I ditched Google Drive, so no pdf reader from Google. Xiaomi one has contrast issues (in terms of display). Let's see if open source apps are interesting in that domain.
 
 ## Sav Pdf Reader
 

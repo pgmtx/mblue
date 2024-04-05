@@ -72,9 +72,9 @@ Then you multiply and add diagonally, like this.
 Don't forget to alternate signs!
 
 So you finally get :
-$$r=5x^3\exp(\frac{x}{5})-75x^2\exp(\frac{x}{5})+750x\exp(\frac{x}{5})+3750\exp(\frac{x}{5})$$
+$$r=5x^3\exp(\frac{x}{5})-75x^2\exp(\frac{x}{5})+750x\exp(\frac{x}{5})-3750\exp(\frac{x}{5})$$
 
 You can then factorize by the exponential:
-$$r=\exp(\frac{x}{5})(5x^3-75x^2+750x+3750)$$
+$$r=\exp(\frac{x}{5})(5x^3-75x^2+750x-3750)$$
 
 [Back to top](#introduction)
