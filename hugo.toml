@@ -61,8 +61,6 @@ enableRobotsTXT = true
   # structured data template
   title = "Methylene Blue"
 
-  math = true
-
   # Dates are displayed following the format below. For more information about
   # formatting, see https://gohugo.io/functions/format/
   dateFormat = "2006-01-02"
