@@ -33,7 +33,7 @@ Requires your phone number. Has encryption, but the keys are held by Meta Inc., 
 WhatsApp collects a lot of information.
 
 One notable detail, which won't affect everyone : on Android, WhatsApp requires Google Services for notifications. As I disabled it, I sometimes don't
-get push notifications, even when allowing the app to run in background.
+get push notifications, even when allowing the app to run in background. I have to open it to get the notifications.
 
 All of these defaults apply to **Messenger** as well.
 
@@ -48,6 +48,11 @@ And recently, Discord contradict itself by [planning to add sponsored ads](https
 
 If you still need to use Discord, prefer using a client that blocks trackers, like [ArmCord](https://armcord.app/) (desktop) and [Aliucord](https://aliucord.com/) (Android).
 These clients allow you to install mods as well, and, in theory, don't respect Discord's ToS. In practice, I got no problem with them.
+
+The issues with data collection leads me to another requirement:
+
+4. The application should respect my privacy. If I'm not easy when someone listens to my private conversation with a friend in real life, then I don't
+see why I would be by message. Therefore encryption is valued.
 
 ## Signal
 
@@ -64,6 +69,7 @@ I was ready to use it, but the biggest issue I met was the slowness of message s
 ## SimpleX Chat
 
 Let's go further : no phone number, no unique id made of random numbers. It only uses temporary ids that are different each time you connect.
+The [website](https://simplex.chat/) gives clear and transparent information.
 
 Unlike Session, the messages are sent and received instantly. However, I don't get any notification sound on my phone when I receive a message. I don't if it is a bug or a way to protect privacy, but it will be annoying for most people.
 

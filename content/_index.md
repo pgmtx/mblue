@@ -10,8 +10,7 @@ weight: 1
 
 Hi, I'm Programutox. 
 
-I'm a bit of a jack-of-all-trades, therefore I created this website, to share my creations.
-I'm talking about privacy, open source softwares and mathematics.
+I'm a bit of a jack-of-all-trades, therefore I created this website, to share my creations. I'm talking about privacy, open source softwares and mathematics.
 I might also express my opinions about other subjects, I don't know yet.
 
 Besides, I develop [games](https://programutox.itch.io/), and you can see what I code on [Github](https://github.com/programutox/) and [Codeberg](https://codeberg.org/programutox/).
@@ -22,4 +21,4 @@ If you want to contact me for any reason (ask questions, suggestions, report err
 
 ## Donations
 
-Monero / XMR : 47jmWLy6pjyQUc63pYQBYqTYbMpqxGJb2FdYewLGkwmSf3EnwiuCpPD7Z5vtwRSZrhgNEU1gYX4pd4UyYM2DcY3jF6eSbdp
+Monero / XMR ([QR](/images/monero.png)): 47jmWLy6pjyQUc63pYQBYqTYbMpqxGJb2FdYewLGkwmSf3EnwiuCpPD7Z5vtwRSZrhgNEU1gYX4pd4UyYM2DcY3jF6eSbdp
