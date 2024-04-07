@@ -6,7 +6,7 @@ draft = false
 
 ## Introduction
 
-Product integrals are annoying: you have to be extremely careful with varying signs, and recursion makes it even harder.
+Product integrals are annoying: you have to be extremely careful with varying signs, and recursion makes them even harder.
 
 When I talk about product integration, I mean using this formula:
 
