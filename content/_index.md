@@ -15,3 +15,11 @@ I'm talking about privacy, open source softwares and mathematics.
 I might also express my opinions about other subjects, I don't know yet.
 
 Besides, I develop [games](https://programutox.itch.io/), and you can see what I code on [Github](https://github.com/programutox/) and [Codeberg](https://codeberg.org/programutox/).
+
+## Contact
+
+If you want to contact me for any reason (ask questions, suggestions, report errors...), here is my email : programutox@disroot.org ([PGP key](/programutox.asc)).
+
+## Donations
+
+Monero / XMR : 47jmWLy6pjyQUc63pYQBYqTYbMpqxGJb2FdYewLGkwmSf3EnwiuCpPD7Z5vtwRSZrhgNEU1gYX4pd4UyYM2DcY3jF6eSbdp
