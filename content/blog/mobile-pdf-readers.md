@@ -2,6 +2,11 @@
 title = 'Which mobile pdf reader should you use?'
 date = 2024-04-02T21:02:57+02:00
 draft = false
+tags = [
+  "pdf-reader",
+  "open-source",
+  "software",
+]
 +++
 
 ## Introduction

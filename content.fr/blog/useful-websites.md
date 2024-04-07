@@ -2,6 +2,9 @@
 title = 'Addendum : deux sites coup de cœur'
 date = 2024-03-29T21:41:39+01:00
 draft = false
+tags = [
+  "web",
+]
 +++
 
 ## Introduction

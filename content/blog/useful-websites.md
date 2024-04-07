@@ -2,6 +2,10 @@
 title = 'Useful Websites'
 date = 2024-03-30T19:10:06+01:00
 draft = false
+tags = [
+  "web",
+  "open-source",
+]
 +++
 
 ## Introduction

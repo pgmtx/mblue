@@ -3,6 +3,10 @@ title = 'Simplifying product integrals'
 date = 2024-04-05T19:04:51+02:00
 draft = false
 math = true
+tags = [
+  "math",
+  "trigonometry",
+]
 +++
 
 ## Introduction
