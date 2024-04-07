@@ -40,5 +40,3 @@ devrez chercher le nom pour comprendre.
 ![Définition du mot arpenter sur CNRTL](/images/useful-websites/cnrtl_arpenter.png)
 
 Ici par exemple, en voulant connaître la définition du mot *arpenter* dans le sens premier, je dois chercher ce que signifie *arpent*.
-
-[Revenir en haut de la page](#introduction)

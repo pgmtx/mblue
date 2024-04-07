@@ -209,5 +209,3 @@ then on "Hide AI brief panel" (even if it's in gray, you can click on it).
 Additionally, an addon exists, which redirects automatically Wikipedia pages you visit to Wikiwand, but I don't recommend it, as it collects [more data than necessary](https://old.reddit.com/r/privacy/comments/m9ugpu/psa_the_browser_extension_wikiwand_is_collecting/) 
 [[archive]](https://archive.is/za01X).
 Also, Wikiwand displays ads if you don't use the addon, so if it bothers you, use an ad blocker like uBlock Origin ou, ideally, uMatrix.
-
-[Back to top](#introduction)

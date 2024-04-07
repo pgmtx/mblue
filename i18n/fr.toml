@@ -1,0 +1,17 @@
+[filtering-for]
+  other = "Filtrer par"
+
+[no-posts]
+  other = "Pas d'article pour l'instant"
+
+[email-subject]
+  other = "Répondre à "
+
+[email-reply]
+  other = "Répondre à cet article par email"
+
+[skip-link]
+  other = "Passer au contenu principal"
+
+[back-to-top]
+  other = "Retour en haut"

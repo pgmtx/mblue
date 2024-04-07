@@ -111,5 +111,3 @@ I don't shout at people.
 > Please make a tier list.
 
 Not now, but soon maybe.
-
-[Back to top](#introduction)
