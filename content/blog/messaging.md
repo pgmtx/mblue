@@ -23,7 +23,7 @@ Personally, my criterias are the following one:
 Simple enough, but you need a flat fee. For some reasons, I can't send MMS when on Wi-Fi only. You can't create groups, and if you communicate with
 someone abroad, you may have to pay fees. Clearly not ideal, so I add a third criteria:
 
-3. The application should allow you to communicate with anyone form any country without constraints.
+3. The application should allow you to communicate with anyone from any country without constraints.
 
 ## WhatsApp
 
@@ -72,6 +72,7 @@ Let's go further : no phone number, no unique id made of random numbers. It only
 The [website](https://simplex.chat/) gives clear and transparent information.
 
 Unlike Session, the messages are sent and received instantly. However, I don't get any notification sound on my phone when I receive a message. I don't if it is a bug or a way to protect privacy, but it will be annoying for most people.
+If you don't have any notifications, meaning you have to open the app to get them, disable the battery saver for this app.
 
 I haven't tried calls yet, so I can't tell about their quality.
 
