@@ -6,7 +6,7 @@ draft = false
 
 ## Introduction
 
-Pas d'introduction, je vais juste expliquer pourquoi j'ai appelé mon site commé ça.
+Pas d'introduction, je vais juste expliquer pourquoi j'ai appelé mon site comme ça.
 
 ## Première raison
 
@@ -30,3 +30,8 @@ C'est ainsi que j'ai appris son utilisation en tant que médicament, malgré des
 On emploie cette substance dans diverses substances, et donc j'ai pu établir un lien avec ce site où je tenterai d'aborder plusieurs types de sujets, ou tout simplement
 le fait que je tente des choses différentes, qui n'ont parfois rien à voir entre elles. J'espère seulement ne pas me perdre dans toutes les idées que j'ai ou aurai. Je dis ça
 comme s'il y en avait beacoup, en réalité il y en a peu mais elles sont conséquentes, mais je veux tenter malgré tout.
+
+## Pourquoi mblue ?
+
+Comme ce site est hébergé sur neocities, et qu'il y a forcément ce nom de domaine quand on veut y accéder, je voulais un nom court et qui se retient bien. J'ai d'abord pensé à
+"methblue", mais ça aurait créé une image assez suspecte (ou Breaking Bad-esque) de mon site. J'ai donc opté pour mblue (prononcé "ème-blou").
