@@ -14,4 +14,4 @@ Je suis quelqu'un qui touche un peu à tout, c'est pourquoi j'ai créé ce site,
 Je parle de vie privée, de logiciels open source, et de mathématiques.
 Je pourrais aussi exprimer mes opinions sur d'autres sujets, je ne sais pas encore.
 
-Sinon, je développe des [jeux](https://programutox.itch.io/), et vous pouvez voir ce que je code sur [Github](https://github.com/programutox/) et [Codeberg](https://codeberg.org/programutox/).
+Sinon, je développe des [jeux](https://programutox.itch.io/), et vous pouvez voir ce que je code sur [Github](https://github.com/pgmtx/) et [Codeberg](https://codeberg.org/programutox/).
