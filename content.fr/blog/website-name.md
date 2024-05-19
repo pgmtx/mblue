@@ -27,7 +27,7 @@ Il fallait bien que je trouve une seconde raison, et que je m'assure que le bleu
 du moins). J'en avais déjà manipulé au lycée, mais je ne connaissais pas toutes ses propriétés, seulement sa capacité de colorant.
 C'est ainsi que j'ai appris son utilisation en tant que médicament, malgré des effets secondaires peu agréables, mais c'est son côté polyvalent qui m'a intrigué.
 
-On emploie cette substance dans diverses substances, et donc j'ai pu établir un lien avec ce site où je tenterai d'aborder plusieurs types de sujets, ou tout simplement
+On emploie cette substance dans divers domaines, et donc j'ai pu établir un lien avec ce site où je tenterai d'aborder plusieurs types de sujets, ou tout simplement
 le fait que je tente des choses différentes, qui n'ont parfois rien à voir entre elles. J'espère seulement ne pas me perdre dans toutes les idées que j'ai ou aurai. Je dis ça
 comme s'il y en avait beacoup, en réalité il y en a peu mais elles sont conséquentes, mais je veux tenter malgré tout.
 
