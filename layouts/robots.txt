@@ -1,8 +1,10 @@
+User-agent: Googlebot
+Disallow:
+
+User-agent: DuckDuckBot
+Disallow:
+
 User-agent: *
 Disallow: /
-
-User-agent: Googlebot
-
-User-agent: DuckduckBot
 
 Sitemap: {{ "sitemap.xml" | absURL }}
