@@ -14,4 +14,11 @@ Je suis quelqu'un qui touche un peu à tout, c'est pourquoi j'ai créé ce site,
 Je parle de vie privée, de logiciels open source, et de mathématiques.
 Je pourrais aussi exprimer mes opinions sur d'autres sujets, je ne sais pas encore.
 
-Sinon, je développe des [jeux](https://programutox.itch.io/), et vous pouvez voir ce que je code sur [Github](https://github.com/pgmtx/) et [Codeberg](https://codeberg.org/programutox/).
+Sinon, je développe des [jeux](https://pgmtx.itch.io/), et vous pouvez voir ce que je code sur [Codeberg](https://codeberg.org/pgmtx/).
+
+## Pourquoi faire des articles en anglais et en français ?
+
+Je compte publier essentiellement des articles en anglais, pour améliorer mon
+écriture. La raison principale pour laquelle je souhaite aussi rédiger des
+articles en français est que les sujets évoqués ne peuvent tout simplement
+pas être expliqués en anglais.
