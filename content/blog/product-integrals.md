@@ -5,7 +5,6 @@ draft = false
 math = true
 tags = [
   "math",
-  "trigonometry",
 ]
 +++
 

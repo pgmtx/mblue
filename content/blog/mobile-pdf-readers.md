@@ -165,4 +165,6 @@ I don't shout at people.
 
 > Please make a tier list.
 
-Not now, but soon maybe.
+Here you go :
+
+![A tier list of all the pdf readers mentioned in this blog post](/images/mobile-pdf-reader/tier_list.png)
