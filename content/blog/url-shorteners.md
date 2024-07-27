@@ -21,11 +21,11 @@ preferably online, to shorten urls I give to it.
 
 | Name       | Checks links                                               | Has captcha                | Cloudflared | Note                                                       | Would I use it ? |
 |------------|------------------------------------------------------------|----------------------------|-------------|------------------------------------------------------------|------------------|
-| [Lstu]     | Yes, refuses to shorten links never opened before          | No                         | No          |                                                            | No               |
-| [rs-short] | Yes, refuses if it was already flagged by the server admin | Yes, writing shown symbols | No          |                                                            | Probably         |
-| [Ouvaton]  | No                                                         | Yes, resolving a sum       | No          |                                                            | Probably         |
-| [v.gd]     | Yes, refuses if it is blacklisted                          | No                         | No          | Displays a page showing full link before redirecting to it | Probably         |
-| [is.gd]    | Yes, refuses if it is blacklisted                          | No                         | Yes         |                                                            | No               |
+| [Lstu]     | Yes, refuses to shorten links never opened before          | No                         | No          |                                                            | <span style="color:red">No</span>               |
+| [rs-short] | Yes, refuses if it was already flagged by the server admin | Yes, writing shown symbols | No          |                                                            | <span style="color:yellow">Probably</span>         |
+| [Ouvaton]  | No                                                         | Yes, resolving a sum       | No          |                                                            | <span style="color:yellow">Probably</span>         |
+| [v.gd]     | Yes, refuses if it is blacklisted                          | No                         | No          | Displays a page showing full link before redirecting to it | <span style="color:yellow">Probably</span>         |
+| [is.gd]    | Yes, refuses if it is blacklisted                          | No                         | <span style="color:red">Yes</span>         |                                                            | <span style="color:red">No</span>               |
 
 [Lstu]: https://lstu.fr/
 [rs-short]: https://s.42l.fr/

@@ -19,6 +19,8 @@ enableRobotsTXT = true
     # and accessibility, see https://web.dev/color-and-contrast-accessibility/
     noClasses = false
   [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = "true"
     [markup.goldmark.extensions]
       [markup.goldmark.extensions.passthrough]
         enable = true
