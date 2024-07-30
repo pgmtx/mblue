@@ -2,6 +2,6 @@ User-agent: MSNbot
 Disallow: /
 
 User-agent: *
-Disallow: /gallery/
+Disallow: /static/
 
 Sitemap: {{ "sitemap.xml" | absURL }}
