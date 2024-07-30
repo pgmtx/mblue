@@ -1,10 +1,7 @@
-User-agent: Googlebot
-Disallow:
-
-User-agent: DuckDuckBot
-Disallow:
+User-agent: MSNbot
+Disallow: /
 
 User-agent: *
-Disallow: /
+Disallow: /gallery/
 
 Sitemap: {{ "sitemap.xml" | absURL }}
